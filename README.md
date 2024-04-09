@@ -1,3 +1,3 @@
 # site
 
-<a href="Temp1.html">Test Link</a> 
+<a href="posts/Temp1.html">Test Link</a> 
