@@ -2,3 +2,21 @@ body {
     font-family: "Times New Roman", Times, serif;
     background-color: white;
 }
+
+/* Style for hyperlinks */
+a {
+    color: blue; /* Change link color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s; /* Smooth color transition on hover */
+}
+
+a:hover {
+    color: darkblue; /* Change link color on hover */
+}
+
+/* Style for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif; /* Use Times New Roman font */
+    color: black; /* Set header color */
+    margin-bottom: 10px; /* Add space below headers */
+}
